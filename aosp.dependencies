@@ -5,9 +5,8 @@
     "branch": "eleven"
   },
   {
-    "remote": "pixel-devices-blobs",
-    "repository": "vendor_xiaomi_mido",
+    "repository": "OLIMPMO5/vendor_xiaomi_mido-eleven",
     "target_path": "vendor/xiaomi/mido",
-    "branch": "eleven"
+    "branch": "main"
   }
 ]
