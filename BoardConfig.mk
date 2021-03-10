@@ -16,6 +16,8 @@
 
 DEVICE_PATH := device/xiaomi/mido
 
+TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/cryptfs_hw
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
